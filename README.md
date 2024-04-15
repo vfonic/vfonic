@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Viktor
 ==============================================================================================================================
 
-Ruby on Rails, JavaScript/TypeScript, Shopify developer
+Ruby on Rails, React/JavaScript/TypeScript, Shopify developer
 -------------------------------------------------------
 
 I'm a passionate developer with comprehensive expertise in Ruby on Rails, JavaScript/TypeScript and Shopify platform. For over 15 years, I've been creating responsive and seamless web applications, complete with robust user experience. My dedication to clean code and practical design patterns leads to user-friendly products. I contributed to several open-source libraries and always strive to stay updated to the latest trends in web development. Random fact: I once participated in a Chess tournament on a whim and ended up winning one game. Besides my love for coding, coffee, and spontaneous chess challenges, I also enjoy traveling.
